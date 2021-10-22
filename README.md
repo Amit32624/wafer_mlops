@@ -5,7 +5,7 @@ wafer_mainmlops
 Wafer project using MLOps
 
 Project Organization
-------------
+--------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
